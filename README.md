@@ -31,7 +31,7 @@ This repository contains my Python programming practice problems as I learn Pyth
 
 Atul Mishra
 
-GitHub: https://github.com/mishraatul7305
+GitHub: [https://github.com/mishraatul7305/PYTHON-BASIC-PROBLEMS]
 
 
 #LIKNDIN [https://www.linkedin.com/analytics/post-summary/urn:li:activity:7514937377958596608/ ]
